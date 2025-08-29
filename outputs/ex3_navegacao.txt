@@ -1,0 +1,4 @@
+/workspaces/lab-1-introducao-EduardoOkada/exemplos
+/workspaces/lab-1-introducao-EduardoOkada
+/workspaces/lab-1-introducao-EduardoOkada/docs
+/workspaces/lab-1-introducao-EduardoOkada/outputs
